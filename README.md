@@ -1,4 +1,3 @@
-# Movie-Ticket-Booking-Portal
 # Online-Movie-Ticket-Booking-Portal
 ### Java Project - Servlets, JSP, HTML, MySQL
 ### Dev:Dhanraj Santosh Biradar
